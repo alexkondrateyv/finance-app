@@ -1,0 +1,7 @@
+.main {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    height: auto;
+    min-height: 80%;
+}

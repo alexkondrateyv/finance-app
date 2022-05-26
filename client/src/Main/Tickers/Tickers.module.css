@@ -1,0 +1,25 @@
+.container {
+    width: 30%;
+    background-color: #4bb6c8;
+}
+
+.item {
+    font-size: 14px;
+    color: white;
+
+    height: 100px;
+    width: 95%;
+    margin: 10px auto;
+    padding: 10px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+    background-color: #024e6e;
+}
+
+.item span {
+    margin: 5px
+}

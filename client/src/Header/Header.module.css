@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-height: 10%;
+    background-color: #8fefff;
+}
+
+.header img {
+    max-width: 75px;
+    max-height: 75px;
+}
