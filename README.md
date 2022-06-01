@@ -7,7 +7,7 @@ Requirements:
 - application should connect to the locally running service
 - application should render price changes for some tickers in real time
 
-As a bonus I implement:
+As a bonus I implemented:
 - A dynamic line graph that shows the last 5 updates (more are possible). This allows you to track price trends.
 
 Technologies:
